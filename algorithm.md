@@ -57,7 +57,8 @@ Highest Level Tasks:
 2. set highest_profit to equal table index 0
 3. for row in table
    1. check if the sixth element is greater than highest_profit:
-      1. Set highest_profit_row to equal row
+      1. Set highest_profit to sixth element
+      2. Set highest_profit_row to equal row
 4. Output Release Date, Movie Title, Movie Budget, Domestic Gross, Worldwide Gross, and profit of highest_profit row
 5. Return
 
