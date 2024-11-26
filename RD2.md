@@ -1,57 +1,56 @@
-ENCRYPTED:
-# Lyzfywncih Xiwogyhn
+# Reflection Document
 
-* Xlcpy Zoff Hugy  : Butyf Imvilhy
-* Julnhyl Zoff Hugy: Ynbuh X'Miotu
-* Mnoxyhn CX: 1930197
-
-
-**Qbun qyly sio mojjimyx ni fyulh/uwwigjfcmb?**
-
-Uhufsty xunu ih gipcym, nbycl voxaynm, uhx nbycl jlizcnm. 
-
-**Qbun mnyjm qyly ziffiqyx uhx qbun nywbhckoym xcx sio omy ni mifpy nby jlivfyg?**
-
-Zclmn qy lyux nby lyuxgy zcfy, nbyh xcmwommyx nby bcab fypyf mnyjm. Uznyl nbun qy qliny nby ufailcnbg uhx nbyh wigjfynyx uhx nymnyx nby wixy.
-
-**Qbun qyly nby Eys wihwyjnm yrjfilyx?**
-
-1. Lyuxcha / Qlcncha zcfym
-2. Zohwncihm
-3. Nuvfym
+* Drive Full Name  : Hazel Osborne
+* Partner Full Name: Ethan D'Souza
+* Student ID: 1930197
 
 
-**Xcx siol lymofnm gunwb qbun sio yrjywnyx ni ayn?**
+**What were you supposed to learn/accomplish?**
 
-Sym.
+Analyze data on movies, their budgets, and their profits. 
 
-**Xcx sio nls omcha pulciom nymn wumym, il yrnlygy nymn wumym?**
+**What steps were followed and what techniques did you use to solve the problem?**
 
-Sym. Nbyly cm yllil wbywecha ch jfuwy qbyh nbyly cm omyl chjon.
+First we read the readme file, then discussed the high level steps. After that we wrote the algorithm and then completed and tested the code.
 
-**Qbun wbuffyhaym xcx sio yhwiohnyl?**
+**What were the Key concepts explored?**
 
-C qum u vcn wihzomyx uvion wlyuncha nby qlcncha zohwncihm. 
-
-**Biq xcx sio ziffiq nby zclmn 3 lofym iz jlialuggcha?**
-
-1. Nbche vyzily Jlialuggcha: Qy lyux nby lyux gy zcfy, uhx wigjfynyx iol ufailcnbg vyzily mnulncha ni jlialug.
-2. Jlialug cm nby ygvixcgyhn iz nby ufailcnbg: Iol wixy ziffiqm iol ufailcnbg
-3. Cgjlipy nblioab jluwncwy: Qy cgjlipyx iol jucl jlialuggcha / wixcha mecffm vs wigjfyncha nbcm fuv.
+1. Reading / Writing files
+2. Functions
+3. Tables
 
 
-**Xcx sio ipylwigy nbyg, uhx biq?**
+**Did your results match what you expected to get?**
 
-Sym. Nby fywnoly hinym ch nby hyrn wfumm byfjyx u fin. 
+Yes.
 
-**Uhs eys nueyuqusm?**
+**Did you try using various test cases, or extreme test cases?**
 
-Xywcxcha Bcab Fypyf mnyjm vyzily xicha nby ufailcnbg cm pyls cgjilnuhn.
+Yes. There is error checking in place when there is user input.
 
-**Xi sio nbche sio fyulhyx qbun sio qyly mojjimyx ni fyulh zil nbcm fuv?**
+**What challenges did you encounter?**
 
-Sym. C zyyf gowb gily wigzilnuvfy qilecha qcnb qlcncha uhx lyuxcha zcfym. 
+I was a bit confused about creating the writing functions. 
 
-**Qbun qum cn fcey qilecha qcnb siol julnhyl?**
+**How did you follow the first 3 rules of programming?**
 
-Aiix! By'm pyls bulxqilecha. 
+1. Think before Programming: We read the read me file, and completed our algorithm before starting to program.
+2. Program is the embodiment of the algorithm: Our code follows our algorithm
+3. Improve through practice: We improved our pair programming / coding skills by completing this lab.
+
+
+**Did you overcome them, and how?**
+
+Yes. The lecture notes in the next class helped a lot. 
+
+**Any key takeaways?**
+
+Deciding High Level steps before doing the algorithm is very important.
+
+**Do you think you learned what you were supposed to learn for this lab?**
+
+Yes. I feel much more comfortable working with writing and reading files. 
+
+**What was it like working with your partner?**
+
+Good! He's very hardworking. 
